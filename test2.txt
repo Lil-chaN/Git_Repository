@@ -1,2 +1,7 @@
 test02
+<<<<<<< HEAD
 test02 test02
+=======
+test02
+test02
+>>>>>>> dev
