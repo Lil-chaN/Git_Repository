@@ -10,6 +10,7 @@ import org.apache.hadoop.mapreduce.TaskAttemptContext;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 
 // 定义类继承FileInputFormat
+定义类继承FileInputFormat
 public class WholeFileInputformat extends FileInputFormat<Text, BytesWritable>{
 	
 	@Override
